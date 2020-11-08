@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+
+.head{
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 55px;
+	color: #3B0043;
+}
+
+.main{
+	background: #3B0043;
+}
+
+.container{
+	background: #E2DDE3;
+}
+
+.input{
+	text-transform: capitalize;
+	color: #ffffff !important;
+	background: #3B0043 !important;
+	font-family: 'Sansita Swashed', cursive;
+	font-weight: 300 !important;
+}
+
+.user{
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.card-title{
+	font-family: 'Sansita Swashed', cursive;
+	color: #3B0043;
+}
